@@ -25,7 +25,7 @@ Comando para rodar o teste: <b>k6 run teste.js</b>
 <hr>
 
 <p>
-:memo:
+:white_check_mark:
 <b>TIPOS DE TESTE</b> :
 </p>
 <p>
