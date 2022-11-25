@@ -1,7 +1,7 @@
 <div align="center">
     <p align="center">  
     <img src= "pictures/K6-logo.svg.png" with="180" height="180">           
-       <h1>¨K6 - Teste de Peformance</h1>
+       <h1>K6 - Teste de Peformance</h1>
     </p>
 </div>
 
