@@ -17,7 +17,7 @@
 <hr/>
 
 <p>
-:white_check_mark:
+:rocket:
 <b>COMANDO</b> :
 </p>
 Comando para rodar o teste: <b>k6 run teste.js</b>
